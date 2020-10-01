@@ -1905,6 +1905,11 @@ Noida
 - Bio: son of a farmer, learning Swift & JavaScript, caffeine addict, learning web & app dev.
 - GitHub: [FarmboyRaghu](https://github.com/FarmboyRaghu)
 
+#### Name: [Raghvendra Agnihotri](https://github.com/fireman13)
+- Place: Bhopal, Madhya Pradesh, India
+- Bio: Aspiring Data Scientist
+- Github: [Raghvendra Agnihotri](https://github.com/fireman13)
+
 #### Name: [Raj Shekhar Kumar](https:/github.com/rja907)
 - Place: Delhi, India
 - Bio: CS Undergrad
